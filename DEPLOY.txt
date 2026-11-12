@@ -1,0 +1,7 @@
+﻿OFFGRID — Netlify site
+======================
+1. Drag this whole folder onto https://app.netlify.com/drop
+2. Online play (Versus / TAG online / global leaderboards) needs the OFFGRID game server
+   running somewhere (see README.md in the source zip). Then put its wss:// address in
+   offgrid-config.js in this folder and re-upload.
+Everything else works without it.
